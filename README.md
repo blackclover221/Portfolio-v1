@@ -18,6 +18,6 @@
 
 // LINKS //
 
-Deployed page: 
+Deployed page: https://blackclover221.github.io/Portfolio-v1/
 
-Github repository link: 
+Github repository link: https://github.com/blackclover221/Portfolio-v1/
